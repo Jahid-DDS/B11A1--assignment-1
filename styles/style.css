@@ -1,0 +1,85 @@
+
+
+.fira-sans-thin {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+
+/*button shear style */
+
+.common-btn {
+    font-weight: 600;
+    font-size: 18px;
+    color:#FFFFFF;
+    background-color: #006A50;
+    border-radius: 8px;
+    padding:17px 34px;
+}
+
+/*nav style here*/
+.head {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.heading {
+   font-size: 32px;
+   font-weight: 700;
+   color:#0E0E0E;
+   margin-left: 160px;
+
+}
+
+.btn-1 {
+    padding:15px 30px;
+    border-color: #006A50;
+    border-radius: 8px;
+     color:#006A50;
+     font-size: 16px;
+     margin-right:160px;
+     background-color: white;
+}
+
+/*banner style here*/
+.banner-container {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+    height:560px;
+    background-color:#C6E4D6 ;
+    border-radius: 24px;
+    margin: 40px 160px 40px 160px;
+    
+
+}
+
+.banner-title {
+    color:gray;
+    padding:8px;
+}
+ 
+.banner {
+    width:622px;
+    height:326px;
+    padding: 80px 100px 80px 117px;
+     
+} 
+
+.banner-description {
+    font-size: 80px;
+    font-weight: 700;
+    color:#0E0E0E;
+     
+}
+
+
+
+.banner-pic {
+
+    width:475px;
+    height:400px;
+}
