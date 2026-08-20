@@ -83,3 +83,136 @@
     width:475px;
     height:400px;
 }
+
+/* vision of future  style*/
+/*shear style*/
+.text-color-black {
+    color:#0E0E0E;
+}
+
+.all-pages-width{
+    max-width: 1280px;
+    padding:80px;
+    margin:0 auto;
+}
+
+ .container-taitle {
+    font-weight: 700;
+    font-size: 40px;
+    color:#0E0E0E;
+ }
+
+ .contaier-para {
+    font-weight: 300;
+    font-size: 16px;
+ }
+
+ .container {
+    text-align:justify;
+     
+    
+  
+ }
+
+
+ /*card style*/
+
+ .container-2 {
+    display:flex;
+    gap:24px;
+ }
+
+ .card-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 12px;
+ }
+
+.card-description {
+    font-weight: 300;
+    font-size:16px;
+    margin-top: 24px;
+    
+}
+
+.card-btn {
+    background-color:firebrick;
+    color:#FFFFFF;
+    border-radius: 8px;
+    padding:11px 20px;
+    font-weight: 600;
+    
+    
+}
+
+.card-container {
+    width:410px;
+    height:325px;
+    background-color: #81B4FC;
+    border-radius: 16px;
+    padding:32px;
+    margin: 20px 0px;
+    align-items: center;
+    
+     
+}
+
+/*bg color style*/
+ 
+
+.card-container-bg {
+    width:410px;
+    height:325px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding:32px;
+    margin: 20px 0px;
+    align-items: center;
+} 
+
+
+.card-container-bg-1 {
+    width:410px;
+    height:325px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding:32px;
+    margin: 20px 0px;
+    align-items: center;
+} 
+
+
+.card-btn1 {
+    background-color:#09A15C;
+    color:#FFFFFF;
+    border-radius: 8px;
+    padding:11px 20px;
+    font-weight: 600;
+    
+}
+
+
+.card-btn2 {
+    background-color:#FFC239;
+    color:#FFFFFF;
+    border-radius: 8px;
+    padding:11px 20px;
+    font-weight: 600;
+    
+    
+}
+
+ /*button hovar style*/
+
+   .card-btn2:hover {
+    background-color:gray;
+ }
+
+
+ .card-btn1:hover {
+    background-color:gray ;
+ }
+
+ .card-btn:hover {
+    background-color: gray;
+ }
